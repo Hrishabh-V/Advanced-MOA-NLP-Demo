@@ -2,6 +2,11 @@
 
 ![Project Image](./MOAdemo.png)
 
+## Click to View App
+
+[![MOA-NLP-Toolkit](https://img.shields.io/badge/View_App-Hugging_Face-1f77b4)](https://huggingface.co/spaces/CHEONMA010/MOA-NLP)
+This will take you to Huggingface Space
+
 ## Overview
 
 The MOA-NLP-Toolkit is an interactive web application built with Streamlit, designed to showcase the capabilities of advanced natural language processing (NLP) using a Mixture of Agents (MoA) approach. It integrates models from the Hugging Face Transformers library to perform tasks such as text summarization, question-answering, and text generation.
